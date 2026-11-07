@@ -25,9 +25,16 @@ I build web applications and APIs, from the interface and business logic to test
       <p><a href="https://nytheragames.itch.io/orbita-neon">Play on itch.io</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://apexdrive.anderbel.com/"><img src="assets/apexdrive.png" alt="ApexDrive vehicle showcase homepage" width="100%"></a>
+      <h3>ApexDrive</h3>
+      <p>A vehicle showcase and reservation demo with search filters, financing estimates, and inventory administration. Vehicles and reservations are fictional.</p>
+      <p><strong>Nuxt · TypeScript · Laravel · PostgreSQL</strong></p>
+      <p><a href="https://apexdrive.anderbel.com/">Live demo</a></p>
+    </td>
+  </tr>
 </table>
-
-**[ApexDrive](https://apexdrive.anderbel.com/)** — A vehicle showcase and reservation demo with search filters, a financing calculator, and an administration area. The vehicles and reservations are fictional. Built with Nuxt, TypeScript, Laravel, and PostgreSQL.
 
 **Tu Ritmo** — An Android training prototype exploring weekly planning and a guided sample session. Built with Kotlin and Jetpack Compose; the illustrative content is still under review.
 
